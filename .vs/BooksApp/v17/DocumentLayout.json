@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Views\\Home\\ETicaret.cshtml",
               "ToolTip": "C:\\Users\\suraa\\OneDrive\\Masa\u00FCst\u00FC\\BooksApp\\Views\\Home\\ETicaret.cshtml",
               "RelativeToolTip": "Views\\Home\\ETicaret.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-11T10:05:29.33Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAALEAAAAAAAAAAAAAAMUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:46:00.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:46:00.827Z"
             }
           ]
         }

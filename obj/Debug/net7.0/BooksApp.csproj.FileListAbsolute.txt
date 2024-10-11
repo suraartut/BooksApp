@@ -59,3 +59,4 @@ C:\Users\suraa\OneDrive\Masaüstü\BooksApp\obj\Debug\net7.0\refint\BooksApp.dll
 C:\Users\suraa\OneDrive\Masaüstü\BooksApp\obj\Debug\net7.0\BooksApp.pdb
 C:\Users\suraa\OneDrive\Masaüstü\BooksApp\obj\Debug\net7.0\BooksApp.genruntimeconfig.cache
 C:\Users\suraa\OneDrive\Masaüstü\BooksApp\obj\Debug\net7.0\ref\BooksApp.dll
+C:\Users\suraa\OneDrive\Masaüstü\BooksApp\obj\Debug\net7.0\BooksApp.sourcelink.json
