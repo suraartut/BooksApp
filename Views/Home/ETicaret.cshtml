@@ -1,0 +1,37 @@
+@model ProductViewModel
+@{
+    ViewData["Title"] = "E-Ticaret Page";
+}
+
+<h3 class="my-4">
+    E-Ticaret
+</h3>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th style="width: 100px;">Ürün Id</th>
+            <th style="width: 100px;">Görsel</th>
+            <th>Ürün Adı</th>
+            <th>Sayfa Sayısı</th>
+
+            <th style="width: 130px;">Settings</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var prd in @Model.Products){
+        <tr>
+            <td>@prd.ProductId</td>
+            <td>
+                <img src="~/img/@prd.Image" class="img-fluid" alt="">
+            </td>
+            <td>@prd.Name</td>
+            <td>@prd.Pages</td>
+            <td>
+                <a asp-controller="Home" asp-action="Edit" asp-route-id="@prd.ProductId" class="btn btn-sm btn-warning">Edit</a>
+                <a asp-controller="Home" asp-action="Delete" asp-route-id="@prd.ProductId" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
